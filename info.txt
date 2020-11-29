@@ -1,0 +1,4 @@
+version: 1
+announcement: Join the discord server for support!
+discord: n/a
+download: n/a
