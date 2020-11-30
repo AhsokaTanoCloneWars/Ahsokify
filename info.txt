@@ -1,1 +1,1 @@
-{"version": 1.1, "discord": "https://discord.gg/2RvTypQNwW", "announcement": "Join the discord server for support! https://discord.gg/2RvTypQNwW", "download": "n/a"}
+{"version": 1.1, "discord": "https://discord.gg/2RvTypQNwW", "announcement": "Join the discord server for support! https://discord.gg/2RvTypQNwW", "download":"https://cdn.discordapp.com/attachments/783058323200147478/783076502241017936/Ahsokify.exe"}
