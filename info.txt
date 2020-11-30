@@ -1,4 +1,1 @@
-version: 1
-announcement: Join the discord server for support!
-discord: n/a
-download: n/a
+{"version": 1, "discord": "N/A", "announcement": "Join the discord server for support!", "download": "n/a"}
